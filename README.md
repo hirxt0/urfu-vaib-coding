@@ -1,3 +1,3 @@
-# urfu-vaib-coding
+# urfu-vibe-coding
 lalalala
 day-8: chill
