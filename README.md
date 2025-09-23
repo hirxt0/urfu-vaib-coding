@@ -1,4 +1,11 @@
 # urfu-vibe-coding
+
+## o sebe
+- **pascal**
+- **russkiy yazik**
+- **angliyskiyi yazik**
+:smile:
+
 lalalala
 - [x] day-8: chill
 - [x] day-9: chill
