@@ -10,7 +10,8 @@ lalalala
 - [x] day-8: chill
 - [x] day-9: chill
 - [x] day-10: chill
-- [ ] day-11: wait..
+- [x] day-11: chill
+- [ ] day-12: gavno
 
 :laughing:
 [:smile:](https://share.google/TG28OQinTuMw9zXmA)
