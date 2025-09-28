@@ -11,7 +11,8 @@ lalalala
 - [x] day-9: chill
 - [x] day-10: chill
 - [x] day-11: chill
-- [ ] day-12: gavno
+- [x] day-12: chill. 
+- [ ] day-13: 
 
 :laughing:
 [:smile:](https://share.google/TG28OQinTuMw9zXmA)
