@@ -12,7 +12,9 @@ lalalala
 - [x] day-10: chill
 - [x] day-11: chill
 - [x] day-12: chill. 
-- [ ] day-13: 
+- [x] day-13: chill
+- [ ] day-14: chill
+- [ ]  
 
 :laughing:
 [:smile:](https://share.google/TG28OQinTuMw9zXmA)
