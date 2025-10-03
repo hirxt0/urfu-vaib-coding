@@ -14,7 +14,8 @@ lalalala
 - [x] day-12: chill. 
 - [x] day-13: chill
 - [x] day-14: chill
-- [ ] day-15: waiiit  
+- [x] day-15: chill
+- [ ] day-16: lol kek   
 
 :laughing:
 [:smile:](https://share.google/TG28OQinTuMw9zXmA)
