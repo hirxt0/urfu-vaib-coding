@@ -16,7 +16,8 @@ lalalala
 - [x] day-14: chill
 - [x] day-15: chill
 - [x] day-16: chill
-- [x] day-17: lol kek
+- [x] day-17: lol 
+- [x] day-18: kek
 
 :laughing:
 [:smile:](https://share.google/TG28OQinTuMw9zXmA)
