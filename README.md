@@ -1,2 +1,2 @@
 # urfu-vibe-coding
-Тестовый коммит 2
+l
