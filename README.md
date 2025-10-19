@@ -1,3 +1,3 @@
 # urfu-vibe-coding
 
-r
+l
