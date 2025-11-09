@@ -1,4 +1,2 @@
 # urfu-vibe-coding
-
-r
-
+e
