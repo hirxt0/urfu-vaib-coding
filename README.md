@@ -1,2 +1,2 @@
 # urfu-vibe-coding
-e
+к
